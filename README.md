@@ -1,6 +1,5 @@
-### Welcome! I'm Kauê Teixeira 👋
+## Welcome! I'm Kauê Teixeira 👋
 
-##
 
 <div>
   <a href="https://beacons.ai/KaueTeixxeira">
@@ -8,11 +7,16 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaueTeixxeira&layout=compact&langs_count=16&theme=tokyonight"> 
 </div>
 
-##
+  
+## Learning/ Working
+
     
-<div style="display: inline_block">
+<div>
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" />          
 </div>
+
+ 
+  
