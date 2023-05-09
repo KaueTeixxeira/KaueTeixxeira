@@ -1,4 +1,4 @@
-## Welcome! I'm Kauê Teixeira 👋
+# Welcome! I'm Kauê Teixeira 👋
 
 
 <div>
@@ -8,7 +8,7 @@
 </div>
 
   
-## Learning/ Working
+### Learning / Working
 
     
 <div>
